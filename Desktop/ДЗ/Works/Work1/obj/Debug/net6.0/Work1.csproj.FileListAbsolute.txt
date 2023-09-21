@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\bin\Debug\net6.0\Work1.exe
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\bin\Debug\net6.0\Work1.deps.json
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\bin\Debug\net6.0\Work1.runtimeconfig.json
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\bin\Debug\net6.0\Work1.dll
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\bin\Debug\net6.0\Work1.pdb
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.dll
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\refint\Work1.dll
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.pdb
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\Work1.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\ДЗ\Works\Work1\obj\Debug\net6.0\ref\Work1.dll
